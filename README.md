@@ -16,10 +16,26 @@
 ## YTPMV++ is an iteration of [YTPMV+](https://github.com/philosophofee/YTPPlus), written in C#.
 ### It includes new features and benefits over the previous iteration, such as:
 
-  - Intro and outro, with toggles
-  - Setting width/height for rendered videos
+  - is a brand new rebuilt system of YTPMV based on the
+
+GTPitch revision 1.0, coded from the ground up. It allows for enhanced
+
+processing, improved pitch, accessible visual presets, easy masking,
+
+a better cookie cutter system and more! It can also run on Mac.
+
+It encompasses everything progressive. You can basically call it
+
+a brand new genre of YTPMV. 
+
   - Includes FFMPEG and FFPROBE
-  - Error handling
+  - Will I need to do anything to upgrade?
+
+A: YTPMV++ is still in its development stages, but we have a stable build
+
+ready for preview release. You are able to use Sony Vegas along with
+
+this build using the included YTPMVegasAdaptor.exe in the release.
   - [Plugin support](https://github.com/YTP-Plus/YTPPlusPlus/wiki/Plugin-Creation)
 
 ## A warning call
@@ -30,7 +46,13 @@ YTP+ is the name given to a set of tools to automatically generate machinima-lik
 YTP++ is the name given to the second iteration of the software, however there was once a [YTP++ made in Electron and Node.JS](https://github.com/TeamPopplio/ytpplus-node-ui).
 
 ## How do I configure YTPMV++?
-All configuration settings may be found in the application itself, either on the interface or in the Tools menu. [ImageMagick](https://imagemagick.org/) is required for the Squidward effect but is otherwise not needed.
+All configuration settings may be found in the application itself, either on the interface or in the Tools menu. [$1-$50: a piece of paper signed by youtube star DeliciousCP Himself
+$50-$75: a drawing of your choice done by twitter star @weedhitler
+$75-$100: access to YTPMV++ once it is released
+$100-$150: special Brony edition YTPMV++ program, complete with the perfect samples and sounds you will find within the FiM show
+$150-$200: special King Of The Hill edition YTPMV++ program, complete with the perfect samples and sounds found within KotH, and even an "auto-poop" button that will create a KotH poop your fans will love!
+$200: (limited to 3) lunch with any of the dev team at a Five Guys (airfair not included)
+$200-$250: (limited to 10): access to the beta test of YTPMV++ is required for the Squidward effect but is otherwise not needed.
 A 32-bit version of [VLC](https://www.videolan.org/vlc/) is recommended to run this software, please install it beforehand for enhanced functionality.
 
 ## I can't run YTPMV++, it just blinks and dissapears!
